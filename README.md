@@ -1,6 +1,9 @@
 marketing-materials
 ===================
 
+Conference Kit
+--------------
+
 Things we as a community should have ready when representing Plone at a conference:
 
  * Case Studies hand out
@@ -10,7 +13,7 @@ Things we as a community should have ready when representing Plone at a conferen
  * A stand that actually holds the poster we have
  * NO MORE STICKERS. People don't really want these. They don't know what plone is - why would they want a sticker?
  * A talking points sheet, which instructs people what message to send depending on what person they are talking to.   Include the answer to the oft asked question: so, what is plone? and my favorite for this conference "wait - how do you make money?"
- * schwag: 
+ * schwag - what do people want?: 
 1 Person specifically asked for a tshirt. Most people were hanging out mugs and things like that. We have no schwag that is sustainable and follows people. I'm not suggesting mugs, but we need some physical and persistent thing. One idea that was mentioned is USB sticks with a Plone demo on it. This would have to likely include a VM, and if they could be customized towards certain realms like education, government, intranet, or nonprofit, major win. 
  * Printed out list of US Plone providers. (or whatever country people are in)
  * Printed out list of people who use plone
