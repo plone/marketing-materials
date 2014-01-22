@@ -14,16 +14,9 @@ Things we as a community should have ready when representing Plone at a conferen
 1 Person specifically asked for a tshirt. Most people were hanging out mugs and things like that. We have no schwag that is sustainable and follows people. I'm not suggesting mugs, but we need some physical and persistent thing. One idea that was mentioned is USB sticks with a Plone demo on it. This would have to likely include a VM, and if they could be customized towards certain realms like education, government, intranet, or nonprofit, major win. 
  * Printed out list of US Plone providers. (or whatever country people are in)
  * Printed out list of people who use plone
- * a big poster in the background.
+ * A big poster in the background.
+ * Notecards
 
-Ahead of time I ran around like crazy trying to find/print marketing materials. I will add them in another note fir future use. People grabbed the notecards the most, and I made sure to have sponsors on there which in the end was where I recommended people go if they wanted a support partner (generally, people were looking to hire a company, which made things AWKWARD cause I had no wares to sell).
-
-People asked a lot about our support of channels, which is a word I saw a lot and yet really didn't understand. 
-
-I ended up handing out all but 1 of the CMS garndeners summary, most of the candy (the rest went to support staff - I had empathy), and probably 30 postcards. I will keep the cards for the next event.
-
-Some interesting tidbits:
-People were less likely to approach me when I was standing and more likely if I just stared off into the distance looking bored. More likely to approach if I was already talking to someone else  (read: 2 people should be at a booth) and if I was drinking a mug of tea, not a cup.
 
 
 
