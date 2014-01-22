@@ -26,9 +26,9 @@ The main issue with the audience is that they, as a majority, are only familiar 
 
 The messages that struck chords with people (read: usually 1 person) were:
  * Internationalization, in specific, R to L capability
- * Security sometimes, but not as much as I thought. There was one guy from a jet propulsion laboratory who was totally into it. Everyone else was eyes glazed over.
- * The Brazil gov story. We seriously need a hand out just for that
- * Non-profit. 2 people gave me some serious sob stories. 
+ * Security, but not necessarily as a selling point to buisness folks
+ * The Brazil gov story
+ * Non-profit
 
 Points of confusion:
-Open source is hard to understand for some - they sincerely didn't understand "where the money comes from".  I LOVE Eric Steeles quote about "while you are staring at shitty banners, I'm fixing code". That says it all. We should have tshirts for that. It's a great schtick. I think its a very interesting angle, and people remember it, if only because its mind blowing.
+Open source is hard to understand for some - they sincerely didn't understand "where the money comes from". 
