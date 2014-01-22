@@ -1,7 +1,7 @@
 marketing-materials
 ===================
 
-Things we as a community should have ready when representing Plone at a conference::
+Things we as a community should have ready when representing Plone at a conference:
 
  * Case Studies hand out
  * Some way to indicate people who use Plone 
